@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">48dp</dimen>
+    <dimen name="inputMinWidth">300dp</dimen>
+    <dimen name="medium_margin">30dp</dimen>
+    <dimen name="indent_margin">90dp</dimen>
+</resources>
